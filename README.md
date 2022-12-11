@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 My Resume: <a href="https://leodevbro.github.io">leodevbro.github.io</a>
 - ⚡ Check out my solo project: <a href="https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman">VS Code extension "Blockman"</a>
 
 Blockman is visual helper for developers to percieve and understand code structure more easily and more quickly.
