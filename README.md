@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- ⚡ Check out my solo project: <a href="https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman">VS Code extension "Blockman"</a>
+
+Blockman is visual helper for developers to percieve and understand code structure more easily and more quickly.
+
 <!--
 **leodevbro/leodevbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
