@@ -2,6 +2,7 @@
 
 - 🔭 My Resume: <a href="https://leodevbro.github.io">leodevbro.github.io</a>
 - ⚡ Check out my solo project: <a href="https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman">VS Code extension "Blockman"</a>
+- ⚡ Also I created a simple tool to find the most frequent sender in Gmail: <a href="https://github.com/leodevbro/gmail-mbox-stats">"gmail-mbox-stats"</a>
 
 Blockman is visual helper for developers to percieve and understand code structure more easily and more quickly.
 
